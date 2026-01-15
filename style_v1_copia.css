@@ -1,0 +1,107 @@
+.title1 {
+    font-weight:bold;
+}
+
+.principal-style {
+    background-color: brown;
+    color: white;
+}
+
+.principal-style2 {
+    background-color: rgb(209, 90, 90);
+    color: white;
+}
+
+.principal-style3 {
+    background-color: rgb(128, 121, 121);
+    color: white;
+}
+
+.text-color-white {
+    color: white;
+}
+
+.link-footer {
+    background-color: rgb(209, 90, 90);
+    color: white;
+    text-decoration: none;
+}
+
+.link-footer:hover {
+    color: white;
+    font-weight: bold;
+  }
+
+ .link-cuentos-escritos {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.link-cuentos-escritos:hover {
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+  }
+
+.margin {
+    margin: 10px;
+}
+
+.margin-right-10 {
+    margin-right: 10px;
+ }
+
+ .margin-left-5 {
+    margin-left: 5px;
+ }
+ 
+.padding {
+    padding: 35px;
+}
+
+.padding-footer {
+    padding: 5px;
+}
+
+.icon-container svg {
+    width: 30px;
+    height: 30px;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.epigraph {
+    text-align: right;
+    font-style: italic;
+}
+
+.active2 {
+    font-weight: bold;
+}
+
+.portada-libro {
+    border: solid;
+    border-color: brown;
+    text-align: justify;
+}
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction:row;
+}
+
+.portada-autor {
+    font-style: italic;
+}
+
+.index-height-v100 {
+    height: 79vh;
+}

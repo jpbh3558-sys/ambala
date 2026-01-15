@@ -1,0 +1,156 @@
+.talleres1 {
+    padding: 10px;
+    color:#008080ff; 
+    font-weight:bold;
+}
+
+.presentacion {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.navbar-custom {
+    background-color: #3980B3;
+    color: #ffffff;
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .nav-link {
+    color: #ffffff;
+}
+
+.navbar-custom .nav-link:hover,
+.navbar-custom .nav-link:focus {
+    color: #b7daf3;
+}
+
+.div-style1 {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #3980B3;
+    color: #000;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.btn:hover {
+    background-color: #008080ff !important;
+}
+
+.portada-libro {
+    border: solid;
+    border-color: #008080ff;
+    text-align: justify;
+    border-radius: 10px;
+}
+
+.title1 {
+    font-weight:bold;
+    color: #008080ff;
+}
+
+.subtitle {
+    font-weight:bold;
+    color: #008080ff;
+}
+
+.text-color-white {
+    color: white;
+}
+
+.link-footer {
+    background-color: #4d7842;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.link-footer:hover {
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+  }
+
+ .link-cuentos-escritos {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.link-cuentos-escritos:hover {
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+  }
+
+.custom-li-editorial {
+    font-size: 1rem; 
+    color: rgb(42, 150, 42);      
+    font-weight: bold;
+}
+
+.margin {
+    margin: 10px;
+}
+
+.margin-right-10 {
+    margin-right: 10px;
+ }
+
+ .margin-left-5 {
+    margin-left: 5px;
+ }
+ 
+.padding {
+    padding: 35px;
+}
+
+.padding-footer {
+    padding: 5px;
+}
+
+.icon-container svg {
+    width: 30px;
+    height: 30px;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.epigraph {
+    text-align: right;
+    font-style: italic;
+}
+
+.active2 {
+    font-weight: bold;
+}
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction:row;
+}
+
+.portada-autor {
+    font-style: italic;
+}
+
+.index-height-v100 {
+    height: 79vh;
+}
+
